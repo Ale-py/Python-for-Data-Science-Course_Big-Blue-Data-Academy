@@ -1,0 +1,11 @@
+Loops, μέρος 1
+
+Introduction to Loops
+For Loop
+While Loop
+Loop for a list
+
+
+https://www.youtube.com/watch?v=st86vCnZiY0&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=6
+
+

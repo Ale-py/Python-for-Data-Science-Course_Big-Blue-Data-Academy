@@ -1,0 +1,11 @@
+Σύνοψη
+
+Μάθημα 10
+
+Short recap (Dictionaries, Lists, Loop)
+Insert a value (input)
+The first program - Calculate expenses algorithm
+Wrap up
+
+
+https://www.youtube.com/watch?v=l2vqIiCEBRg&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=10

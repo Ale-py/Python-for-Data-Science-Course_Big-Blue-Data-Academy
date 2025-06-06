@@ -1,0 +1,31 @@
+Strings
+
+Unlock the world of strings in Python with this focused tutorial. Start with:
+
+String theory    
+Practical use
+Learn to describe and manipulate strings   
+Discover string operations and commands  
+Delve into multiline strings
+Learn string enlargement and formatting with variables
+
+
+https://www.youtube.com/watch?v=OCLeKsxsjAI&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=3
+
+
+Strings Exercises
+
+
+Create a variable greeting that stores the string "Hello, world!" and print it.
+
+Define two variables, first_name and last_name, each containing a string. Concatenate them with a space in between to form a new variable full_name, and then print it.
+
+Assign the string "Python" to a variable. Use indexing to print the first character and the last character of the string.
+
+Using the string "Python", extract a substring (for example, "ytho") using slicing, and print the result.
+
+Create a variable word with a string of your choice. Use the len() function to print the length of the string.
+
+Assign a string to a variable. Convert the string to uppercase using the upper() method and to lowercase using the lower() method, then print both results.
+
+Create a variable containing a sentence. Use the find() method to locate a specific word within the sentence and print the index where it first appears.

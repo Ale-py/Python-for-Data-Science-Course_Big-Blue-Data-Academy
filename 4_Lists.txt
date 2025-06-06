@@ -1,0 +1,32 @@
+Lists
+
+Unlock the secrets of string manipulation:
+
+Introduction to String Theory
+Practical Use of Strings
+Describing and Manipulating Strings
+String Operations and Commands
+Multiline Strings
+String Enlargement
+Formatting Strings with Variables
+
+
+https://www.youtube.com/watch?v=0VZncW_-R_c&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=4
+
+
+Lists Exercises
+
+
+Create a list named fruits that contains the following elements: "apple", "banana", and "cherry". Then, print the list.
+
+Start with an empty list called numbers. Append the integers 1, 2, and 3 to the list, and then print it.
+
+Given the list colors = ["red", "green", "blue"], print the first element and the last element using indexing.
+
+Use the list letters = ["a", "b", "c", "d", "e"] and slice it to create a new list that contains elements from index 1 to 3 (inclusive of index 1 but excluding index 4). Print the new list.
+
+Create a list animals = ["cat", "dog", "rabbit", "horse"]. Use the len() function to print the number of elements in the list.
+
+Create two lists, list1 = [1, 2, 3] and list2 = [4, 5, 6]. Concatenate them into a new list called combined_list and print it.
+
+Given the list numbers = [10, 20, 30, 40, 50], remove the element 30 using the remove() method and then print the updated list.

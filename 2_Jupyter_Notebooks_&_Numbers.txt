@@ -1,0 +1,27 @@
+Jupyter Notebooks & Numbers
+
+Master Jupyter Notebooks with this guide. Start with:
+
+Νavigating Anaconda
+Εxplore file management in Jupyter
+Learn Python script creation
+Discover environment navigation and shortcuts
+Dive into coding with numbers   
+Create a Celsius to Fahrenheit converter
+
+
+https://www.youtube.com/watch?v=kal56ikG2eQ&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=2
+
+
+Intro to Python & Numbers Exercises
+
+
+Create two variables, x and y, each containing an integer value. Create a third variable z that is equal to the sum of x and y.
+
+Create a variable x containing an integer value. Transform that value into a float and save it under the same variable x
+
+Define two variables, a and b, with integer values. Multiply them together and store the result in a new variable c.
+
+Assign two integers to variables num1 and num2. Write an expression that calculates the remainder when num1 is divided by num2 and store the result in a variable called remainder.
+
+Create variables base and exponent with integer values. Calculate base raised to the power of exponent and assign it to a variable named result.

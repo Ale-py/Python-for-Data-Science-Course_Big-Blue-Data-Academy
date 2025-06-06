@@ -1,0 +1,12 @@
+Εισαγωγή στο Anaconda Navigator
+
+Explore the basics of programming languages and Python's history in this first episode. Learn about different types of programming languages and get a step-by-step guide on installing Python with Anaconda Navigator, an essential tool for Python programming. A perfect start for beginners in Python!  
+
+What is a programming language?
+Types of programming languages   
+Python's history
+Context of the course
+Installation of Python - Anaconda Navigator
+
+
+https://www.youtube.com/watch?v=JCaRVt5Qv-4&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=1

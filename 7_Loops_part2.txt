@@ -1,0 +1,21 @@
+Loops, μέρος 2
+
+Insert values with while loop - Example
+Example with For loop
+Break
+For else
+
+
+https://www.youtube.com/watch?v=bozT_BTK8xU&list=PLJT4CAvB3VkruoU2NwMcov5ODFzj80hBf&index=7
+
+
+Loops Exercises
+
+
+Write a for loop that prints each number from 0 to 4 using the range() function.
+
+Given a list colors = ["red", "green", "blue"], write a for loop that prints each color.
+
+Initialize a variable count = 1 and write a while loop that prints numbers from 1 to 5, incrementing count by 1 each time.
+
+Create a list of numbers (e.g., [1, 2, 3, 4, 5]) and use a for loop to calculate and print the sum of the list.
