@@ -1,13 +1,11 @@
 # 1. Create a dictionary named person with keys "name", "age", and "city" and
 # assign them values (e.g., "Alice", 30, and "New York"). Then, print the dictionary.
-'''
 person = {
     "name" : "Alice",
     "age" : 30,
     "city" : "New York"
 }
 print(person)
-'''
 # 2. Given the dictionary person = {"name": "Alice", "age": 30, "city": "New York"}, print the value associated with the key "age".
 '''
 person = {
